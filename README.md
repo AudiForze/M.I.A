@@ -1,33 +1,33 @@
-# **M.I.A. (My Intelligent Assistant) - El Asistente Virtual Definitivo 🚀**
+# MIA - The Ultimate Virtual Assistant
 
-¡Bienvenido a **MIA**, el asistente virtual diseñado para transformar la forma en que interactúas con tu computadora! Con MIA, puedes controlar tu navegador, gestionar ventanas, automatizar tareas y mejorar tu productividad, todo con simples comandos.
+![MIA Logo](https://link-to-your-logo.png)
 
----
+MIA is an advanced, AI-powered personal assistant designed to make your daily tasks easier and more efficient. Built with cutting-edge technologies and a user-friendly interface, MIA combines the best of automation, productivity, and machine learning to provide an intelligent, responsive, and interactive experience.
 
-## **Características Principales 🔥**
+## 🚀 Features
 
-- **Navegación web optimizada**: Abre, cierra, cambia de pestañas y navega hacia adelante o atrás con comandos rápidos.
-- **Control del navegador**: Desde abrir herramientas de desarrollo hasta ajustar el zoom, todo está al alcance de tu mano.
-- **Gestión de ventanas inteligente**: Abre nuevas ventanas, cierra las actuales o cambia entre ellas sin esfuerzo.
-- **Modo pantalla completa**: Con un solo comando, activa el modo pantalla completa para una mejor experiencia visual.
-- **Modo privado**: Navega de manera segura y privada con la capacidad de abrir ventanas en modo incógnito.
-- **Automatización con atajos de teclado**: Simplifica tu flujo de trabajo mediante atajos de teclado para múltiples aplicaciones.
+- **Voice Recognition**: MIA listens and responds to your voice commands in real-time.
+- **Browser Automation**: MIA can open new tabs, close them, switch between tabs, and navigate the web effortlessly.
+- **Productivity Boosting**: Open, manage, and automate tasks on your computer with quick commands like zooming in/out, refreshing, opening private windows, and more.
+- **Custom Memory System**: MIA remembers your preferences and past tasks, thanks to a built-in memory system that allows it to recall previous interactions.
+- **WhatsApp Messaging**: MIA can send WhatsApp messages directly from your desktop through WhatsApp Web.
+- **Calendar Integration**: MIA helps you manage and organize your schedule efficiently.
+- **Media Control**: Play, pause, and control your music with integrated media commands.
 
----
+## 📜 How It Works
 
-## **Tabla de Contenidos 📚**
+MIA operates by combining natural language processing with direct system control. Here's a brief overview:
 
-1. [Instalación](#instalación)
-2. [Uso](#uso)
-3. [Contribuciones](#contribuciones)
-4. [Licencia](#licencia)
+1. **Speech Recognition**: MIA listens to your voice commands using `speech_recognition` and processes them to take action.
+2. **Automation**: Using the `pyautogui` module, MIA interacts with your system to open windows, control browser tabs, and adjust settings.
+3. **AI-Enhanced Responses**: With the integration of Ollama and Llama models, MIA generates intelligent, human-like responses to queries.
+4. **Task Management**: MIA includes functionalities to remember tasks, take notes, and manage reminders, enhancing your productivity.
 
----
+## 💻 Installation
 
-## **Instalación 🛠**
+To get started with MIA, follow these steps:
 
-Para empezar a usar **MIA**, sigue estos sencillos pasos:
-
-1. Clona este repositorio:
+1. Clone the repository:
    ```bash
-   git clone https://github.com/tuusuario/MIA.git
+   git clone https://github.com/your-repository/MIA.git
+   cd MIA
