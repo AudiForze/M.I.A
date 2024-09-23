@@ -1,6 +1,6 @@
 # MIA - The Ultimate Virtual Assistant
 
-![MIA Logo](https://link-to-your-logo.png)
+![MIA Logo](![image](https://github.com/user-attachments/assets/2b220ea2-b457-441c-9c0e-3e5131041667))
 
 MIA is an advanced, AI-powered personal assistant designed to make your daily tasks easier and more efficient. Built with cutting-edge technologies and a user-friendly interface, MIA combines the best of automation, productivity, and machine learning to provide an intelligent, responsive, and interactive experience.
 
@@ -31,3 +31,32 @@ To get started with MIA, follow these steps:
    ```bash
    git clone https://github.com/your-repository/MIA.git
    cd MIA
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+3. Run MIA:
+   ```bash
+   python mia.py
+
+## 🛠️ Tech Stack
+
+- **Python:** The core language used to build the assistant.
+- **PyAutoGUI:** For automating mouse and keyboard inputs.
+- **Google Text-to-Speech:** Converts text to lifelike speech.
+- **Pygame:** Handles audio and media features.
+- **Ollama & Llama AI Models:** Powering intelligent, conversational responses.
+- **PyWhatKit:** Enables WhatsApp messaging through automation.
+- **Speech Recognition:** Allows MIA to understand and act upon voice commands.
+
+## 🤖 Key Functionalities
+
+- **Open New Tab:** Open a new tab in your browser with a single command.
+- **Close Tab:** Instantly close the current tab.
+- **Zoom In/Out:** Control zoom levels in your browser or system.
+- **Refresh Page:** Reload the page you're viewing.
+- **Switch Between Tabs:** Effortlessly move between open tabs.
+- **Open History:** View your browser history.
+- **Navigation:** Go back and forward in your browser.
+- **Dev Tools:** Open developer tools in your browser for easy debugging.
+- **Private Window:** Open a private/incognito browsing session.
+- **System Control:** Manage system windows, maximize, minimize, and switch applications.
