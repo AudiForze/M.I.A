@@ -1,6 +1,6 @@
 # MIA - The Ultimate Virtual Assistant
 
-![MIA Logo](![image](https://github.com/user-attachments/assets/2b220ea2-b457-441c-9c0e-3e5131041667))
+![MIA Logo](![image]([https://github.com/user-attachments/assets/2b220ea2-b457-441c-9c0e-3e5131041667](https://cdn.discordapp.com/attachments/817433018280443955/1287848726442016909/file-KOOpPk7iMz0iWxMZjUu1CFCB.png?ex=66f30a17&is=66f1b897&hm=3e7808c443547bd89f2deb4ba216997862350d9ec54023e1a2718b90d723030c&)))
 
 MIA is an advanced, AI-powered personal assistant designed to make your daily tasks easier and more efficient. Built with cutting-edge technologies and a user-friendly interface, MIA combines the best of automation, productivity, and machine learning to provide an intelligent, responsive, and interactive experience.
 
